@@ -1,0 +1,14 @@
+.landing-content {
+    height: 88%;
+    font-family: 'DM Serif Display', serif;
+}
+
+.landing-title {
+    font-size: 5rem;
+}
+
+@media (max-width: 960px) {
+    .landing-title {
+        font-size: 3rem;
+    }
+}
